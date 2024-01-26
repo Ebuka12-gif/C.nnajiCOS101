@@ -1,0 +1,10 @@
+These are the Nigerian companies and leverages over the years 
+company                 date            assets          liabilities     leverage percent
+Cadbury Nigeria Plc     1965            15000000        5500000         63             
+Champion Breweries Plc    1974            25000000        8000000         68             
+Dangote Sugar Refinery Plc    1970            18000000        10000000        44             
+Flour Mills Nigeria Plc    1960            32000000        4000000         87             
+Nestle Nigeria Plc      1961            8000000         1500000         81             
+Unilever Nigeria Plc    1923            37000000        11000000        70             
+Honeywell Nigeria Plc    1906            34000000        9000000         73             
+Nigerian breweries Plc    1946            30000000        12000000        60             
